@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951160552096",
+    "firebase_url": "https://iddaakazancim-fdba6.firebaseio.com",
+    "project_id": "iddaakazancim-fdba6",
+    "storage_bucket": "iddaakazancim-fdba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951160552096:android:002ce6482c5fa71db9e7c5",
+        "android_client_info": {
+          "package_name": "com.denizerdogan.iddaa_kazanc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951160552096-p6r68lgics983folagejvn9o5q0ndoa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQ9-VKASCZ2DCh-9HvdX26B3NdWeI2MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951160552096-p6r68lgics983folagejvn9o5q0ndoa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
